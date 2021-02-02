@@ -8,7 +8,6 @@
             "value": "password"
         }
     },
-    "website": "https://github.com/mixool/brook",
-    "repository": "https://github.com/mixool/brook",
+    "repository": "https://github.com/santa2021/brook.git",
     "stack": "container"
 }
